@@ -8,4 +8,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Shed"
 include ':app'
-include ':busschedule'
+include ':bus-schedule'
+include ':mars-photos'
