@@ -10,3 +10,4 @@ rootProject.name = "Shed"
 include ':app'
 include ':bus-schedule'
 include ':mars-photos'
+include ':diceroller'

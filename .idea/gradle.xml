@@ -11,7 +11,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/busschedule" />
+            <option value="$PROJECT_DIR$/bus-schedule" />
+            <option value="$PROJECT_DIR$/diceroller" />
             <option value="$PROJECT_DIR$/mars-photos" />
           </set>
         </option>
